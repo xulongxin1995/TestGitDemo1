@@ -1,3 +1,4 @@
 new file1
 add file1
 master update file1
+hot-fix update file1
